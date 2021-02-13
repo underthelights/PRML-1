@@ -24,3 +24,10 @@ Python codes implementing algorithms described in Bishop's book "Pattern Recogni
 
 ## Sponser
 https://tracking.gitads.io/?repo=PRML
+
+## @terminal
+1) python setup.py build
+2) python setup.py install
+3) cd notebooks
+4) ipython notebook
+5) DO YOUR WORK
